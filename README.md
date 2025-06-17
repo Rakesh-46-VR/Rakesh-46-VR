@@ -19,8 +19,6 @@
 - 🌟 Building **agentic AI systems** that deeply understand & navigate codebases
 - 🔐 Focused on **FastAPI**, **Redis**, **PostgreSQL**, **LangChain**, and **Kong**
 - 🛠️ Architecting scalable backends for **multi-user sessions**, **RLS**, and **WebSocket streaming**
-- 📫 Reach me: [rakeshb@example.com](mailto:rakeshb@example.com)
-- 🌍 Portfolio: [https://rakeshb.dev](https://rakeshb.dev)
 
 ---
 
