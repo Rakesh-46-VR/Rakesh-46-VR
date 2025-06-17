@@ -55,10 +55,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rakeshb" target="_blank">
+  <a href="https://www.linkedin.com/in/rakesh-b-sirvi-a2b758285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/rakeshb" target="_blank">
+  <a href="https://twitter.com/code_raks" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
 </p>
