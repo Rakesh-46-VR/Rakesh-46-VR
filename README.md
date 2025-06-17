@@ -35,7 +35,7 @@
 | Project | Description |
 |--------|-------------|
 | 🧠 [Agentic Codebase Querier](https://github.com/Rakesh-46-VR/codevec) | AI-driven interface to ask questions over codebases using LangChain + FastAPI |
-| ⚙️ [FastAPI Celery Template](https://github.com/Rakesh-46-VR/AutoResearchAgent) | A lightweight agent powered AI research agent integrated with SERP Api |
+| ⚙️ [Agentic Research Agent](https://github.com/Rakesh-46-VR/AutoResearchAgent) | A lightweight agent powered AI research agent integrated with SERP Api |
 
 ---
 
